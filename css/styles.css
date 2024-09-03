@@ -11078,6 +11078,6 @@ p {
 }
 @media only screen and (max-width:480px){
   #hablar{
-   margin-left:-5px;
+   margin-left:-100px;
 }
 }
